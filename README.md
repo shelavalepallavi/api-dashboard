@@ -42,11 +42,12 @@ npm run build	Build the app for production
 
 npm start	Start the production build
 
+
 🌐 Deployment
 
 This project can be deployed on Vercel.
 
-Make sure to add environment variables in the Vercel dashboard.
+
 
 📁 Project Structure
 
