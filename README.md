@@ -4,6 +4,16 @@ A **Next.js** project for tracking and visualizing API data.
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](public/dashboard.png)
+
+### 🏠 Home Page Dark Theme
+![Home-dark Page](public/dashboard-dark.png)
+
+### 🏠 Home Page Mobile Screen
+![Home-mobile Page](public/mobile.png)
 
 ## 🚀 Project Setup
 
